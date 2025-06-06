@@ -57,6 +57,8 @@ for i in range(100):
 plt.ioff()
 plt.show()
 
+# Code Explanation
+
 '''
 This code simulates real-time data collection and visualization for temperature and pH levels.
 It uses matplotlib to plot the data and highlights anomalies in red.
